@@ -1,0 +1,7 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE,"M.S., Program Evaluation & Data Analytics",Arizona State University,"Tempe, AZ",2019,2020,"Trained in data programming, visualization, dashboard design, open data, project management and impact analysis.",NA,
+education,TRUE,"B.S., Public Service and Public Policty",Arizona State University,"Tempe, AZ",2017,2019,Learned how to lead a public organization and understand the process of policy development.,NA,
+industry_positions,TRUE,Admin Assistant II (Data Analyst),City of Phoenix,"Phoenix, AZ",2017,2020,Mange 70-million-dollar budget,"Dashboards, Ad-hoc reporting, financial reporting",NA
+industry_positions,TRUE,Solid Waste Operations Analyst,City of Phoenix,"Phoenix, AZ",2015,2017,Trend equipment failures,Fee forecasting replacement equipment,NA
+industry_positions,TRUE,Buyer's Aide,City of Phoenix,"Phoenix, AZ",2012,2015,Purchase commodities and services,NA,NA
+industry_positions,TRUE,Parts Manager,Medley Material Handling,"Phoenix, AZ",2010,2012,Manage Inventory,Supervise Staff,NA
